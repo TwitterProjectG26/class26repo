@@ -25,3 +25,5 @@ sudo systemctl status $name
 else
 echo "You entered an inexisting process"
 fi
+
+#This is a test message to dtermine that pull works
