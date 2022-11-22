@@ -1,6 +1,7 @@
 #!/bin/bash
 #This script will help anyone kill or start a process on the Linux 
 #This script will work on RedHat and Centos Linux Servers
+echo "This is PROCESS MANAGEMENT"
 echo "Welcome to process management"
 echo "Please enter the name of the process you want to terminate"
 echo "You can enter the process in this form 'apache' or 'httpd'"
