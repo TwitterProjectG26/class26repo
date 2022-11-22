@@ -7,4 +7,5 @@ echo "backup completed"
 Deployment 4
 #Deployment 4
 deployment to the staging 
-
+echo "good for deployment"
+tested and accepted
