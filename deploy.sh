@@ -6,3 +6,5 @@ echo "backup completed"
 #deployment 5 in progress
 Deployment 4
 #Deployment 4
+deployment to the staging 
+
