@@ -13,3 +13,4 @@ ps -ef | grep httpd
 
 #CopyRight C 2022 LandMark Technologies.
 author jerome odibi
+echo "the makes life easier"
