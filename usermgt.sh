@@ -42,6 +42,8 @@ sudo echo "$name ALL=(ALL) NOPASSWD:ALL" | sudo tee /etc/sudoers.d/$name
 #verify that the user was added to the sudoers file
 sudo grep $name /etc/sudoers
 echo "$name now has a sudo right. Thank you"
+sudo usermod -G sec.groupadd username
+sudo lid username
 else
         echo "Thank you"
 fi
@@ -50,3 +52,4 @@ echo "Thank you"
 fi
 fi
 #LSS
+#TEAM26

@@ -12,3 +12,4 @@ systemctl status httpd
 ps -ef | grep httpd
 
 #CopyRight C 2022 LandMark Technologies.
+author jerome odibi
